@@ -1,0 +1,108 @@
+.gm{
+    margin-left: 85%;
+    cursor: pointer;
+}
+img {
+    position: relative;
+    left:35%;
+    top: 15vh;
+    width: 350px;
+    height: 100px;     
+}
+button {
+    position: absolute;
+    
+}
+.search_bar input[type=text]{
+    width: 40%;
+    padding: 10px;
+    text-align: left;
+    border-radius: 20px;
+    margin-top: 12%;
+    margin-left: 28%;
+ }
+
+.butt1{
+    text-align: center;
+    color: white;
+    width: 90px;
+    margin-left: 90%;
+    border: none;
+    background-color: rgb(23, 7, 163);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 15px;
+
+}
+.butt2{
+    width: 12%;
+    padding: 1%;
+    margin-top: 3%;
+    margin-left: 33%;
+    border: none;
+    background-color: rgb(235, 233, 233);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+
+}
+
+.butt3{
+    width: 12%;
+    padding: 1%;
+    margin-top: 3%;
+    margin-left: 50%;
+    border: none;
+    background-color: rgb(235, 233, 233);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+
+}
+.table1{
+    width: fit-content;
+    position: absolute;
+    top: 4%;
+    left: 75%;
+    cursor: pointer;
+    color: black;
+
+}
+.table2{
+    width: 35%;
+    position: absolute;
+    top:65vh;
+    left: 62vh;
+
+}
+.trans{
+    top: 45vh;
+    padding-left: 2%;
+    cursor: pointer;
+    color: blue;
+}
+footer{
+       width: 94%;
+       background: rgb(233, 230, 230);
+       position:relative;
+       top: 38vh;
+       left: -7px;
+       padding: 23px;
+       padding-right: 73px;
+       padding-bottom: 1%;
+}
+.about{
+    cursor: pointer;
+}
+.foot{
+      padding-left: 2%;
+      cursor: pointer;    
+}
+.foot2{
+    word-spacing: 9px;
+    cursor: pointer;
+    padding-left: 100vh;
+}
+a:hover{
+    text-decoration: underline;
+}
+
